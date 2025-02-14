@@ -1,0 +1,93 @@
+body {
+    font-family: "Young Serif", serif;
+   
+  }
+ 
+ .one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    height: 100px;
+    padding-top: 5px;
+    margin-top: 20px;
+    margin:10px ;
+}
+p{
+    display: inline-block;
+    color: gray;
+    margin-top: 0;
+}
+.container{
+    margin-top: 10px;
+    
+    text-align: center;
+}
+
+.two,.three,.four,.five{
+    display: inline-block;
+    border: black solid 5px;
+    vertical-align: top;
+    vertical-align: auto;
+   }
+.two{
+    width: 180px;
+}
+.three{
+    width: 270px;
+    height: 305px;
+}
+.four{
+    width: 180px;
+
+}
+.five{
+    width: 270px;
+    height: 304px;
+}
+.six{
+    background-color: orange;
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 5px;
+   
+}
+.six:focus{
+    outline: solid black 2px;
+   
+    background-color: aqua;
+}
+table{
+    display: inline-block;
+    text-align: center;
+}
+ nav{
+    background-color: black;
+    width: 969px;
+    height:290pxpx;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 40px;
+    color: white;
+    padding-left: 35%;
+    padding-top:5px;
+    margin: 10px;
+    padding-bottom: 30px;
+    
+    
+    
+   
+    
+ }
+ h1{
+    margin-left:50px ;
+ }
+ .button{
+    background-color: greenyellow;
+    width: 235px;
+    height: 25px;
+
+
+    
+
+ }
